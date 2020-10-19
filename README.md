@@ -29,6 +29,7 @@ The whole training takes up to 25 mins in my laptop, and the result is showed be
 
 
 
+
 ```
 Epoch 1/24
 ----------
@@ -153,4 +154,19 @@ val Loss: 0.1675 Acc: 0.9150
 Training complete in 24m 55s
 Best val Acc: 0.947712
 ```
+
+# Result Analysis
+The overall training for 24 Epochs takes about 25 minutes, each Epoch for about 1 minute. The accuracy is quite good, ranging from 0.84 to 0.94. From this result, I believe it is enough for me to use it for my own data training.
+
+## Sprint2 
+As I have successfully implemented the transfer leaning model, now I'm going to test it with my own data. 
+The data can be downloaded from COCODataset https://cocodataset.org/#home.
+However,due to large volume of data, which is beyond handler of my own laptop, I'm now considering using a school GPU for further processing.
+
+
+
+
+
+
+
 
