@@ -25,6 +25,8 @@ In this project, the goal is to implement a complicated system that are related 
 The whole training takes up to 25 mins in my laptop, and the result is showed below:
 
 
+<img width="1194" alt="Screen Shot 2020-10-19 at 11 20 12" src="https://user-images.githubusercontent.com/52185318/96471672-950d3180-11fd-11eb-86dd-4da47c4ca571.png">
+
 
 
 ```
