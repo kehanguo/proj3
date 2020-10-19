@@ -4,3 +4,7 @@ The whole training takes up to 25 mins in my laptop, and the result is showed be
 
 
 <img width="1195" alt="Screen Shot 2020-10-18 at 22 38 34" src="https://user-images.githubusercontent.com/52185318/96465669-36dd5000-11f7-11eb-9df6-aba0f1c3f08d.png">
+
+
+
+<img width="1190" alt="Screen Shot 2020-10-19 at 10 51 22" src="https://user-images.githubusercontent.com/52185318/96467862-63926700-11f9-11eb-87e0-cb40cc029773.png">
